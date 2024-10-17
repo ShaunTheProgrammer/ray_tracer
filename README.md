@@ -29,6 +29,8 @@
 ### Viewing the Output
 
 The PPM format is widely supported, but you can convert it to more common formats like PNG using tools like ImageMagick:
+![output](https://github.com/user-attachments/assets/45a8b021-6f11-4bd2-9c33-8e834e446ae5)
+
 
 ## Customization
 
